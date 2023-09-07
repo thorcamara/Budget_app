@@ -138,3 +138,15 @@ body {
 .product-title {
   margin-bottom: 1em;
 }
+
+.hide {
+  display: none;
+}
+
+.error {
+  color: #ff465a;
+}
+
+.edit {
+  margin-left: auto;
+}
